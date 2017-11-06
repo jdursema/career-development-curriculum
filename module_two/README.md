@@ -28,9 +28,17 @@ By mastering the objectives listed above, students will be able to put themselve
 In order to fulfill the requirements of module two, students will submit these deliverables:
 
 * Documentation of mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
+[here](https://gist.github.com/jdursema/7868f1a5e089ad2fa478de7003a281f7.js)
+[here](https://gist.github.com/jdursema/6c3c04efef383cc94870498b3ddcdd6d.js)
+
 * Reflection on agile practices/project management used in projects
+[here](https://gist.github.com/jdursema/0771843c6be51f6a3e0a04dd5b330618.js)
+
 * Feedback II reflection: In-person feedback conversation
+[here](https://gist.github.com/jdursema/641bd98f1fd73a9d91fbe57cb1f79d21.js)
+
 * Feedback III reflection: Feedback implementation reflection & application of strengths to teams 
+[here](https://gist.github.com/jdursema/64760210a4383113d8cb8187e612f2e0.js)
 * Gear Up-related reflections
 
 You'll submit all deliverables except for Gear Up reflections [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). Gear Up reflections should be included in your module portfolio.
